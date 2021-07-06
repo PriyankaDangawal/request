@@ -478,11 +478,123 @@
             "short_description": "Let's learn typing"
         },
         {
+            "id": "124",
+            "name": "JS Data Types",
+            "type": "html",
+            "logo": "http://navgurukul.org/img/sqlogo.jpg",
+            "short_description": "Iss topic mai hum JavaScript ke Data Type ke bare mai janege"
+        },
+        {
+            "id": "125",
+            "name": "Spoken-English",
+            "type": "html",
+            "logo": "http://navgurukul.org/img/sqlogo.jpg",
+            "short_description": "let's learn to speak english"
+        },
+        {
             "id": "104",
             "name": "Dictionary (Using Python)",
             "type": "html",
             "logo": "https://bit.ly/1h4FwSY",
             "short_description": "Dictionary ko thoda depth mein samajhte hain."
+        },
+        {
+            "id": "126",
+            "name": "JS Arrays",
+            "type": "js",
+            "logo": "http://navgurukul.org/img/sqlogo.jpg",
+            "short_description": "Iss topic mai hum JavaScript ke Arrays ke bare mai janege"
+        },
+        {
+            "id": "128",
+            "name": "Javascript Introduction ",
+            "type": "js",
+            "logo": "http://navgurukul.org/img/sqlogo.jpg",
+            "short_description": "We will discuss about javascript introduction, how to install node in your laptop and run first program."
+        },
+        {
+            "id": "129",
+            "name": "Objects",
+            "type": "js",
+            "logo": "http://navgurukul.org/img/sqlogo.jpg",
+            "short_description": "We will discuss about the operations can be done on objects in javascript."
+        },
+        {
+            "id": "130",
+            "name": "JS Operators",
+            "type": "js",
+            "logo": "http://navgurukul.org/img/sqlogo.jpg",
+            "short_description": "Iss topic mai hum JavaScript ke Operators ke bare mai janege"
+        },
+        {
+            "id": "134",
+            "name": "Conditional Statements ",
+            "type": "js",
+            "logo": "http://navgurukul.org/img/sqlogo.jpg",
+            "short_description": "We will discuss about Conditional Statements."
+        },
+        {
+            "id": "136",
+            "name": "JS Variables",
+            "type": "js",
+            "logo": "http://navgurukul.org/img/sqlogo.jpg",
+            "short_description": "We will discuss about javascript variables."
+        },
+        {
+            "id": "137",
+            "name": "JS Loops",
+            "type": "js",
+            "logo": "http://navgurukul.org/img/sqlogo.jpg",
+            "short_description": "We will discuss about different types of loops in javascript."
+        },
+        {
+            "id": "138",
+            "name": "JS Functions",
+            "type": "js",
+            "logo": "http://navgurukul.org/img/sqlogo.jpg",
+            "short_description": "We will discuss about the operations can be done on functions in javascript."
+        },
+        {
+            "id": "139",
+            "name": "Home Row (Typing)",
+            "type": "typing",
+            "logo": "http://navgurukul.org/img/sqlogo.jpg",
+            "short_description": "Let's learn typing"
+        },
+        {
+            "id": "140",
+            "name": "Top Row (Typing)",
+            "type": "typing",
+            "logo": "http://navgurukul.org/img/sqlogo.jpg",
+            "short_description": "Let's learn typing"
+        },
+        {
+            "id": "141",
+            "name": "Bottom Row (TG)",
+            "type": "typing",
+            "logo": "http://navgurukul.org/img/sqlogo.jpg",
+            "short_description": "Let's learn typing"
+        },
+        {
+            "id": "142",
+            "name": "Number Row (Typing)",
+            "type": "typing",
+            "logo": "http://navgurukul.org/img/sqlogo.jpg",
+            "short_description": "Let's learn typing"
+        },
+        {
+            "id": "143",
+            "name": "Shift Row (Typing)",
+            "type": "typing",
+            "logo": "http://navgurukul.org/img/sqlogo.jpg",
+            "short_description": "Let's learn typing"
+        },
+        {
+            "id": "144",
+            "name": "Special Keys (Typing)",
+            "type": "typing",
+            "logo": "http://navgurukul.org/img/sqlogo.jpg",
+            "short_description": "Let's learn typing"
         }
     ],
     "completedCourses": []
